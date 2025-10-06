@@ -4,7 +4,7 @@
 # Creamos la imagen de alpine con docker pull alpine
 <img width="1903" height="1040" alt="Captura desde 2025-10-03 08-47-06" src="https://github.com/user-attachments/assets/a2ae15d9-07c9-4875-ba6f-68a6dbb4029c" />
 
-# Comprobamos que esta la imagen y creamos los docker correspondientes
+# Comprobamos que esta la imagen y creamos los docker correspondientes con docker create --nameDocker alpine
 <img width="1903" height="1040" alt="Captura desde 2025-10-03 08-49-19" src="https://github.com/user-attachments/assets/6ea3b1ad-14a9-4d5c-82b6-4a64c55c62e7" />
 
 <img width="1438" height="883" alt="Captura desde 2025-10-03 09-01-28" src="https://github.com/user-attachments/assets/2f140505-0d1b-49b4-b739-546186dc9699" />
