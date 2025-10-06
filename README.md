@@ -1,7 +1,7 @@
 # Tarea03
 
 
-# Creamos la imagen de alpine 
+# Creamos la imagen de alpine con docker pull alpine
 <img width="1903" height="1040" alt="Captura desde 2025-10-03 08-47-06" src="https://github.com/user-attachments/assets/a2ae15d9-07c9-4875-ba6f-68a6dbb4029c" />
 
 # Comprobamos que esta la imagen y creamos los docker correspondientes
