@@ -19,6 +19,7 @@ Empleé docker exect dam_al1 ip -a para la ip y ping la ruta del otro contenedor
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-27-06" src="https://github.com/user-attachments/assets/775a581f-5fa7-4d49-ac3d-6bc35b14fa50" />
 
 # Cuando salgamos de terminal la ejecucución de los docker se queda en segundo plano
+Para cerrarlos tenemos que utilizar docker stop nombre_contendor
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-28-27" src="https://github.com/user-attachments/assets/f5c815f9-8cac-4745-9705-d94813edcbe2" />
 
 # Con el comando docker stats comprobamos lo que ocupa en espacio
