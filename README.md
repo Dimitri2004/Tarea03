@@ -12,7 +12,7 @@
 
 <img width="1438" height="883" alt="Captura desde 2025-10-03 09-01-28" src="https://github.com/user-attachments/assets/2f140505-0d1b-49b4-b739-546186dc9699" />
 
-# Creamos el contenedor y lo iniciamosl, hacemos ping a google.com
+# Creamos el contenedor y lo iniciamos i pedimos ip, hacemos ping a google.com
 
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-23-59" src="https://github.com/user-attachments/assets/765cf38b-7915-4c11-b16a-42be0e49baa4" />
 
