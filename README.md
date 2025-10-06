@@ -15,11 +15,11 @@
 
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-27-30" src="https://github.com/user-attachments/assets/4b0eaa40-1b02-4d4c-8aae-5ff273322518" />
 
-# Creamos el segundo contenedor y hacemo ping entre ellos
+# Creamos el segundo contenedor y hacemos ping entre ellos
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-27-06" src="https://github.com/user-attachments/assets/775a581f-5fa7-4d49-ac3d-6bc35b14fa50" />
 
-# Cuando salgamos de terminal la ejecucuin de los docker se queda en segundo plano
+# Cuando salgamos de terminal la ejecucución de los docker se queda en segundo plano
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-28-27" src="https://github.com/user-attachments/assets/f5c815f9-8cac-4745-9705-d94813edcbe2" />
-# Con el comando docker stats comprobamos lo que ocupa en espacio
 
+# Con el comando docker stats comprobamos lo que ocupa en espacio
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-31-24" src="https://github.com/user-attachments/assets/5d452415-d120-451b-8a8c-69f63849d1e6" />
