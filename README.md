@@ -12,8 +12,10 @@
 
 <img width="1438" height="883" alt="Captura desde 2025-10-03 09-01-28" src="https://github.com/user-attachments/assets/2f140505-0d1b-49b4-b739-546186dc9699" />
 
+# Creamos el contenedor y lo iniciamosl, hacemos ping a google.com
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-23-59" src="https://github.com/user-attachments/assets/765cf38b-7915-4c11-b16a-42be0e49baa4" />
 
+# Creamos el segundo contenedor y hacemo ping entre ellos
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-27-06" src="https://github.com/user-attachments/assets/775a581f-5fa7-4d49-ac3d-6bc35b14fa50" />
 
 <img width="1917" height="892" alt="Captura desde 2025-10-06 08-27-30" src="https://github.com/user-attachments/assets/4b0eaa40-1b02-4d4c-8aae-5ff273322518" />
